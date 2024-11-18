@@ -7,13 +7,13 @@
 ## 随便写写
 顾名思义，就是某个烯烃分子随便写的什么东西，事实上某烯自己也不知道自己写的是什么，大家可以当作胡言乱语去看。
 
-1. [一点感受 1](bdwgpgng_/1.md)
-2. [一点感受 2](bdwgpgng_/2.md)
-3. [一点感受 3](bdwgpgng_/3.md)
-4. [简短的一点感受 4](bdwgpgng_/4.md)
-5. [（未完成）](bdwgpgng_/5.md)
-5. [逢魔之刻的一点感受](bdwgpgng_/6.md)
-6. [雾雨](bdwgpgng_/7.md)
+1. [一点感受 1](bdwgpgngz_/1.md)
+2. [一点感受 2](bdwgpgngz_/2.md)
+3. [一点感受 3](bdwgpgngz_/3.md)
+4. [简短的一点感受 4](bdwgpgngz_/4.md)
+5. [（未完成）](bdwgpgngz_/5.md)
+5. [逢魔之刻的一点感受](bdwgpgngz_/6.md)
+6. [雾雨](bdwgpgngz_/7.md)
 
 ---
 
