@@ -12,8 +12,9 @@
 3. [一点感受 3](bdwgpgngz_/3.md)
 4. [一些很多感受](bdwgpgngz_/4.md)
 5. [时间？（未完成）](bdwgpgngz_/5.md)
-5. [逢魔之刻](bdwgpgngz_/6.md)
-6. [雾雨](bdwgpgngz_/7.md)
+6. [逢魔之刻](bdwgpgngz_/6.md)
+7. [雾雨](bdwgpgngz_/7.md)
+8. [雨之后](bdwgpgngz_/8.md)
 
 ---
 
