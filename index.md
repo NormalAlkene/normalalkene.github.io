@@ -17,6 +17,7 @@
 8. [雨之后](bdwgpgngz_/008.md)
 9. [无题](bdwgpgngz_/009.md)
 10. [祭祖有感](bdwgpgngz_/010.md)
+11. [怀念的陌生感](bdwgpgngz_/011.md)
 
 ---
 
