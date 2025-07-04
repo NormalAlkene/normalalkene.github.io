@@ -18,6 +18,9 @@
 9. [无题](bdwgpgngz_/009.md)
 10. [祭祖有感](bdwgpgngz_/010.md)
 11. [怀念的陌生感](bdwgpgngz_/011.md)
+12. [雨，仍然是雨](bdwgpgngz_/012-rain-again.md)
+13. [无题](bdwgpgngz_/013.md)
+14. [吃饭](bdwgpgngz_/014-meals.md)
 
 ---
 
